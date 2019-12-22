@@ -1,0 +1,20 @@
+/* start.wxss */
+
+.intro {
+  padding: 24px 10%;
+  color: rgb(40, 40, 95);
+  line-height: 3;
+}
+
+.btn1{
+  width: 60%;
+  color:rgb(40, 40, 95);
+  background-color:rgba(255, 255, 255, 0.137);
+  border-radius: 98rpx;
+}
+
+.a{
+  padding: 24px 10%;
+  color: rgb(40, 40, 95);
+  line-height: 3;
+}

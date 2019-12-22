@@ -1,0 +1,6 @@
+<!--start.wxml-->
+<view class="a">
+昨夜起床情况
+</view>
+<button class="btn1" bindtap="navigate">查看设备回传数据</button>
+
